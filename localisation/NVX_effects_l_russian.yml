@@ -1,0 +1,10 @@
+﻿l_russian:
+ EFFECT_CHANGE_LAW_centralization_category:0 "Измените централизацию на $NAME|Y$"."
+ EFFECT_CHANGE_LAW_government_system_category:0 "Измените систему управления на $NAME|Y$"."
+ EFFECT_CHANGE_LAW_national_development_category:0 "Измените Национальное развитие на $NAME|Y$"."
+ EFFECT_CHANGE_LAW_economy_tax_rate_category:0 "Измените налоговую ставку на $NAME|Y$"."
+ EFFECT_CHANGE_LAW_immigration_policy_category:0 "Измените иммиграционную политику на $NAME|Y$"."
+ public_safety_category_cost_factor:0 "Затраты на общественную безопасность"
+ immigration_policy_category_cost_factor:0 "Стоимость иммиграционной политики"
+ civil_liberties_category_cost_factor:0 "Стоимость гражданских свобод"
+ welfare_category_cost_factor:0 "Расходы на социальное обеспечение"
